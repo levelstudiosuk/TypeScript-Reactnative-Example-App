@@ -24,7 +24,7 @@
     "@react-navigation/core": "^5.1.2",
     "@react-navigation/native": "^5.0.3",
     "@react-navigation/stack": "^5.0.3",
-    "expo": "^36.0.2",
+    "expo": "^48.0.0",
     "expo-localization": "~8.0.0",
     "i18n-js": "^3.5.1",
     "react": "16.9.0",
